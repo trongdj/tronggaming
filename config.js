@@ -1,5 +1,4 @@
-// 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
-const CONFIG = {
+CONFIG = {
     introTitle: 'Hello Thy',
     introDesc: `Tui có vài điều muốn hỏi,ok không ?`,
     btnIntro: 'OK',
@@ -11,7 +10,7 @@ const CONFIG = {
     reasonPlaceholder: 'Câu trả lời',
     btnReply: 'Gởi ! 💌💌',
     reply: ' ông không thiểu năng ông thông minh vcl😊😊',
-    mess: 'tui biết mà không vần khen 🥰. Love you 300.000 😘😘',
+    mess: 'tui biết mà không cần khen 🥰. Love you 300.000 😘😘',
     messDesc: '💬💬 Nhắn tin cho tui nha. 💬💬',
     btnAccept: 'Ok lun 💖',
     messLink: 'https://www.facebook.com/phaitrong.nguyenkhong.9'
